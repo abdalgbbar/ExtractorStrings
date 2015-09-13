@@ -2,80 +2,80 @@
 <resources>
 
     <!-- global messages -->
-    <string name="app_name">Apk Extractor</string>
+    <string name="app_name">Apk-Extractor</string>
 
     <!-- Menu Strings and messages -->
-    <string name="action_search">Search</string>
-    <string name="acton_rate_us">Rate us</string>
-    <string name="action_file">file</string>
-    <string name="action_share">share</string>
-    <string name="str_show_system_apps">Show System Apps</string>
-    <string name="str_show_user_apps">Show User Apps</string>
-    <string name="show_all_apps_title">Show all applications</string>
-    <string name="settings">Settings</string>
+    <string name="action_search">بحث</string>
+    <string name="acton_rate_us">قيمنا</string>
+    <string name="action_file">الملف</string>
+    <string name="action_share">مشاركة</string>
+    <string name="str_show_system_apps">عرض تطبيقات النظام</string>
+    <string name="str_show_user_apps">عرض تطبيقات المستخدم</string>
+    <string name="show_all_apps_title">عرض كل التطبيقات</string>
+    <string name="settings">الإعدادات</string>
 
     <!-- menu icon text -->
     <string name="checkbox">checkbox</string>
-    <string name="options">options</string>
-    <string name="icon">icon</string>
-    <string name="file">file</string>
-    <string name="check">Check</string>
-    <string name="extract">Extract</string>
-    <string name="share">Share</string>
+    <string name="options">الخيارات</string>
+    <string name="icon">الأيقونة</string>
+    <string name="file">الملف</string>
+    <string name="check">تفحص</string>
+    <string name="extract">استخراج</string>
+    <string name="share">مشاركة</string>
 
     <!-- Settings screen Strings -->
-    <string name="title_file_saved_path">Saved path</string>
-    <string name="title_rate_us">Rate</string>
-    <string name="title_version">Version</string>
-    <string name="summmay_on">Displays all applications in a single list</string>
-    <string name="summmay_off">User installed and System installed applications are categorized </string>
-    <string name="summary_file_saved_path">&lt; no sdcard &gt;</string>
-    <string name="title_about">About us</string>
+    <string name="title_file_saved_path">المسار المحفوظ</string>
+    <string name="title_rate_us">التقييم</string>
+    <string name="title_version">الإصدار</string>
+    <string name="summmay_on">عرض كل التطبيقات في قائمة واحدة</string>
+    <string name="summmay_off">تطبيقات النظام والمستخدم تم تصنيفها </string>
+    <string name="summary_file_saved_path">&lt; لايوجد بطاقة ذاكرة &gt;</string>
+    <string name="title_about">معلومات عنا</string>
 
     <!-- messages -->
-    <string name="extract_success">Extracted to path :</string>
-    <string name="share_msg">How do you want to share?</string>
-    <string name="extracting_msg">Extracting &#8230;</string>
-    <string name="loading_msg">Loading applications &#8230;</string>
-    <string name="options_title_share">share</string>
-    <string name="options_title_info">info</string>
-    <string name="empty_folder">Empty Folder</string>
-    <string name="create_directory">Create</string>
-    <string name="set_dir_path">Set</string>
-    <string name="str_directory_exists">Directory already exists</string>
-    <string name="str_invalid_dir_create">Directory cannot be created here</string>
-    <string name="str_invalid_dir_set">Cannot set this directory.</string>
+    <string name="extract_success">استخراج للمسار :</string>
+    <string name="share_msg">كيف تريد المشاركة؟</string>
+    <string name="extracting_msg">جار استخراج &#8230;</string>
+    <string name="loading_msg">جار تحميل التطبيقات &#8230;</string>
+    <string name="options_title_share">مشاركة</string>
+    <string name="options_title_info">معلومات</string>
+    <string name="empty_folder">مجلد فارغ</string>
+    <string name="create_directory">إنشاء</string>
+    <string name="set_dir_path">ضبط</string>
+    <string name="str_directory_exists">المجلد موجود مسبقا</string>
+    <string name="str_invalid_dir_create">المجلد لا يمكن إنشاؤه هنا</string>
+    <string name="str_invalid_dir_set">.لايمكن تعيين هذا المجلد</string>
 
     <!-- error messages -->
-    <string name="MEDIA_MOUNTED_READ_ONLY">Cannot extract ! sdcard is not writable</string>
-    <string name="MEDIA_CHECKING">Media scanning under progress,please try again later.</string>
-    <string name="MEDIA_NOFS">Cannot extract,sdcard unsupported file system ! </string>
-    <string name="MEDIA_SHARED">Cannot Extract, sdcard is shared</string>
-    <string name="MEDIA_REMOVED">Please insert sdcard and extract</string>
-    <string name="MEDIA_BAD_REMOVAL">Cannot extract,sdcard is not supported</string>
-    <string name="MEDIA_UNKNOWN">Cannot extract,sdcard is not supported</string>
-    <string name="MEDIA_UNMOUNTABLE">Cannot extract,sdcard is not supported</string>
-    <string name="MEDIA_UNMOUNTED">Cannot extract,sdcard is not supported</string>
-    <string name="error_msg">Error</string>
-    <string name="str_button_ok">OK</string>
-    <string name="str_button_cancel">Cancel</string>
-    <string name="dialog_title_directory_name">Directory Name</string>
-    <string name="summary_no_sdcard"> &lt; no sd card -&gt; </string>
+    <string name="MEDIA_MOUNTED_READ_ONLY">لايمكن الاستخراج لايمكن الكتابة على بطاقة الذاكرة</string>
+    <string name="MEDIA_CHECKING">لايمكن الاستخراج بطاقة الذاكرة غير مدعومة</string>
+    <string name="MEDIA_NOFS">لا يمكن الاستخراج بطاقة الذاكرة لا تدعم نظام الملفات</string>
+    <string name="MEDIA_SHARED">لا يمكن الاستخراج بطاقة الذاكرة غير مدعومة</string>
+    <string name="MEDIA_REMOVED">يرجى ادخال بطاقة ذاكرة للاستخراج</string>
+    <string name="MEDIA_BAD_REMOVAL">لا يمكن الاستخراج بطاقة الذاكرة غير مدعومة</string>
+    <string name="MEDIA_UNKNOWN">لا يمكن الاستخراج بطاقة الذاكرة غير مدعومة</string>
+    <string name="MEDIA_UNMOUNTABLE">لا يمكن الاستخراج بطاقة الذاكرة غير مدعومة</string>
+    <string name="MEDIA_UNMOUNTED">لا يمكن الاستخراج بطاقة الذاكرة غير مدعومة</string>
+    <string name="error_msg">خطأ</string>
+    <string name="str_button_ok">حسنا</string>
+    <string name="str_button_cancel">إلغاء</string>
+    <string name="dialog_title_directory_name">اسم المجلد</string>
+    <string name="summary_no_sdcard"> &lt; لايوجد بطاقة ذاكرة -&gt; </string>
 
     <!-- new strings -->
-    <string name="tile_developer">DESIGNED &amp; DEVELOPED BY </string>
-    <string name="title_translators">TRANSLATIONS BY</string>
-    <string name="summary_rate_us">Show us your support</string>
-    <string name="contact_us">Contact us</string>
-    <string name="no_matches_found">No matches found</string>
+    <string name="tile_developer">تصميم &amp; التطوير بوساطة </string>
+    <string name="title_translators">تمت الترجمة بوساطة</string>
+    <string name="summary_rate_us">أظهر لنا دعمك</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="no_matches_found">لايمكن العثور على تطابق</string>
     
     <string-array name="listarray">
-        <item>Name + Version + Version Code</item>
-        <item>Name + Version</item>
-        <item>Name</item>
+     <item>الاسم +الإصدار + كودالإصدار</item>
+        <item>الاسم +الإصدار</item>
+        <item>الاسم</item>
     </string-array>
 
-    <string name="file_name_format">Apk file name saving format</string>
+    <string name="file_name_format">صيغة اسم ملف التطبيق المستخرج</string>
     <string name="name_format_type_summary">Extracted application naming convention</string>
 
 </resources>
