@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="key_pref_path">saved_path</string>
-    <string name="key_rate_us">rate_us</string>
+    <string name="key_pref_path">المسار المحفوظ</string>
+    <string name="key_rate_us">قيمنا</string>
     <string name="key_version">version_name</string>
-    <string name="PREF_KEY_VERSION">version</string>
-    <string name="PREF_KEY_FILE_PATH">path</string>
-    <string name="PREF_KEY_CUSTOM_PATH">custom_path</string>
+    <string name="PREF_KEY_VERSION">الإصدار</string>
+    <string name="PREF_KEY_FILE_PATH">المسار</string>
+    <string name="PREF_KEY_CUSTOM_PATH">تعديل المسار</string>
     <string name="key_all_app_state">key_all_app_state</string>
-    <string name="key_about">key_about_us</string>
+    <string name="key_about">حول البرنامج</string>
     <string name="PREF_FILE_NAME">apk_extractor_prefence</string>
     <string name="name_format_type">file_type</string>
     
-
     <string-array name="list_values">
         <item>1</item>
         <item>2</item>
@@ -28,5 +26,5 @@
     <string name="polski_translator"><a href="https://plus.google.com/118077528741004122671">Jakub Magdowski (Polski)</a></string>
     <string name="spanish_translator"><a href="https://twitter.com/lalongooo">Jorge E. Hernández (Spanish)</a></string>
 	<string name="korean_translator"><a href="https://plus.google.com/u/0/108609094218066714789">이준희 (Korean)</a></string>
-
+<string name="arabic_translator"><a href="https://plus.google.com/+AbdalgbbarAisa86">Abdalgbbar Alaisa (Arabic)</a></string>
 </resources>
